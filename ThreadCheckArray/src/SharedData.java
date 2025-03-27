@@ -15,7 +15,7 @@ public class SharedData
 	{
 		return winArray;
 	}
-	// hi
+	// hi jbgk
 
 	public void setWinArray(boolean [] winArray) 
 	{
